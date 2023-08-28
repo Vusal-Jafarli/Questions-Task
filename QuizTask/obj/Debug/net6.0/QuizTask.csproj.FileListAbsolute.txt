@@ -1,0 +1,14 @@
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\bin\Debug\net6.0\QuizTask.exe
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\bin\Debug\net6.0\QuizTask.deps.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\bin\Debug\net6.0\QuizTask.runtimeconfig.json
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\bin\Debug\net6.0\QuizTask.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\bin\Debug\net6.0\QuizTask.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.AssemblyInfoInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.AssemblyInfo.cs
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.csproj.CoreCompileInputs.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\refint\QuizTask.dll
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.pdb
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\QuizTask.genruntimeconfig.cache
+C:\Users\jafar\OneDrive\Masaüstü\ara\QuizTask\QuizTask\obj\Debug\net6.0\ref\QuizTask.dll
